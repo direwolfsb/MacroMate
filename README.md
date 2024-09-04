@@ -4,7 +4,7 @@
 
 # MacroMate - Macronutrient Tracking App
 
-![MacroMate](https://github.com/user-attachments/assets/b75e4cb9-4a32-43ad-9f91-2e3a477f824b)
+<img src="https://github.com/user-attachments/assets/b75e4cb9-4a32-43ad-9f91-2e3a477f824b" width="500"/>
 
 ## Overview
 
@@ -26,9 +26,9 @@
 
 - **Data Storage**: MacroMate securely stores all your data, allowing you to access your nutritional history and trends at any time. The app utilizes Core Data for efficient and reliable data management, making sure your progress is always saved and accessible.
 
-![Launchscreen](https://github.com/user-attachments/assets/2ef85f5e-5aad-41ae-8241-5d75c7b7c392)
-![Home](https://github.com/user-attachments/assets/a16d4323-ee22-46c0-95d0-d54483976cae)
-![Addingfood](https://github.com/user-attachments/assets/730a2cd4-9a5d-423c-b892-89bc8f1d6a56)
+<img src="https://github.com/user-attachments/assets/2ef85f5e-5aad-41ae-8241-5d75c7b7c392" width="500"/>
+<img src="https://github.com/user-attachments/assets/a16d4323-ee22-46c0-95d0-d54483976cae" width="500"/>
+<img src="https://github.com/user-attachments/assets/730a2cd4-9a5d-423c-b892-89bc8f1d6a56" width="500"/>
 
 ## Technical Implementation
 
@@ -59,3 +59,4 @@
 MacroMate is more than just a tracking tool; it is a comprehensive dietary management solution designed to help users take control of their nutrition. By combining AI-powered food analysis with a user-friendly interface and robust data management, MacroMate is an invaluable tool for anyone looking to maintain a healthy diet. Whether you're aiming to lose weight, build muscle, or simply eat better, MacroMate provides the insights and tools you need to succeed.
 
 ---
+
